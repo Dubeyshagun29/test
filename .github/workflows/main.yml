@@ -1,0 +1,2 @@
+- name: AppScan SAST
+  uses: alphayax/appscan-sast-action@v1
